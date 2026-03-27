@@ -1,0 +1,11 @@
+document
+"Python is a high-level programming language used for web development, machine learning, automation, and data analysis."
+Machine learning is a branch of artificial intelligence that allows systems to learn patterns from data and make predictions.
+Streamlit is an open-source Python framework used to build interactive web apps for data science and machine learning projects.
+"Natural language processing, or NLP, is a field of AI that focuses on the interaction between computers and human language."
+"Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation to answer questions using external knowledge."
+"Scikit-learn is a Python machine learning library that provides tools for classification, regression, clustering, and preprocessing."
+"Transformers are deep learning models that are widely used for NLP tasks such as text classification, translation, summarization, and question answering."
+A vector store is used to save numerical representations of documents so that similar content can be retrieved efficiently.
+Cosine similarity measures how similar two text vectors are and is commonly used in information retrieval systems.
+Gradio and Streamlit are popular tools for deploying machine learning applications with simple user interfaces.
